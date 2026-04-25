@@ -13,11 +13,11 @@
 
 # TP 3
 
-1. Dentro del directorio TP3-reentrega  se encuentran los archivos necesarios para este TP
+1. Dentro del directorio TP3 se encuentran los archivos necesarios para este TP
 2. La notebook vision_computer_TP3.ipynb tiene todos los resultados y analisis de los experimentos propuestos para el presente TP.
 3. La carpeta resultados contiene las imagenes resultado de ejecutar el algoritmo propuesto para la ultima parte.
 
 # TP 3 - reentrega
 
-1. Dentro del directorio TP3  se encuentran los archivos necesarios para este TP
+1. Dentro del directorio TP3-reentrega  se encuentran los archivos necesarios para este TP
 2. La notebook vision_computer_TP3_reentrega.ipynb tiene todos los resultados y analisis de los experimentos propuestos para el presente TP.
